@@ -1,0 +1,39 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background-color: #f5f5f5;
+  text-align: center;
+}
+
+header {
+  background-color: #4a90e2;
+  color: white;
+  padding: 30px;
+}
+
+.home-container {
+  margin-top: 40px;
+}
+
+.intro {
+  background: white;
+  padding: 30px;
+  width: 60%;
+  margin: auto;
+  border-radius: 10px;
+}
+
+.view-posts {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 12px 25px;
+  background-color: #4a90e2;
+  color: white;
+  text-decoration: none;
+  border-radius: 6px;
+}
+
+.view-posts:hover {
+  background-color: #357abd;
+}
+
